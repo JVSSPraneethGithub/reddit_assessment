@@ -1,8 +1,5 @@
 # Reddit Android Mobile app Take-home Assessment
 
-Submission : Praneeth Jataprolu
-Github handle : JVSSPraneethGithub
-
 ### System Requirements:
 
 * Android Studio Meerkat | 2024.3.2
