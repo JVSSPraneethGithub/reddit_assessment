@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rick And Morty App</string>
+    <string name="character_name">Image for Rick and Morty Character name,</string>
+    <string name="retry">Retry</string>
+    <string name="pagination_error">Error: Failed to fetch more Characters.</string>
+    <string name="system_error">Error: Failed to fetch Rick and Morty Characters altogether.</string>
+</resources>
